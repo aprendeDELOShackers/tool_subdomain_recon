@@ -1,6 +1,6 @@
-#veamos algunos ejemplo 
+# _veamos algunos ejemplo_
 
-#tooooooools
+# _tooooooools a nombrar abajo
 Type   		Tool	          Repo	   						Language
 Passive		Amass	          https://github.com/OWASP/Amass			Go	ya
 Passive		Sublist3r	  https://github.com/aboul3la/Sublist3r			Python  ya
